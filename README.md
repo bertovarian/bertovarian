@@ -14,7 +14,7 @@ Welcome to my GitHub profile! I'm a former Automation Engineer with a strong bac
 
 ## 🚀 My New Journey
 
-I'm currently studying full-stack development through **The Web Developer Bootcamp 2025** on Udemy, focusing on:
+I have finished the full-stack development through **The Web Developer Bootcamp 2025** on Udemy, focusing on:
 
 - **Frontend**: HTML, CSS, JavaScript, React  
 - **Backend**: Node.js, MongoDB  
@@ -35,7 +35,8 @@ I'm passionate about using my engineering problem-solving mindset to build scala
 ## 📫 Let's Connect
 
 - 📧 alberto_bernardez@hotmail.com  
-- 🌐 [GitHub](https://github.com/bertovarian)  
+- 🌐 [GitHub](https://github.com/bertovarian)
+- 💼 LinkedIn https://www.linkedin.com/in/alberto-bernardez-fernandez-a4b17ba5/
 - 📍 Pontevedra, Spain
 
 ---
