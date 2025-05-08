@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alberto Bernárdez
 
-Welcome to my GitHub profile! I'm a former Automation Engineer with a strong background in industrial systems, now transitioning into the world of full-stack web development.
+I’m a former Automation Engineer with a strong background in industrial systems, now transitioning into full-stack web development. I'm currently seeking my first opportunity as a full-stack web developer, eager to apply my skills in a new and exciting domain.
 
 ---
 
