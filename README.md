@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Alberto Bernárdez
 
-I’m an Automation Engineer with a strong background in industrial systems, now transitioning into full-stack web development. I'm currently seeking my first opportunity as a full-stack web developer, eager to apply my skills in a new and exciting domain.
+I’m an Automation Engineer with a strong background in industrial systems, now transitioning into full-stack web development. I'm currently seeking my first opportunity as a full-stack web developer.
 
 ---
 
@@ -32,6 +32,13 @@ I'm passionate about using my engineering problem-solving mindset to build scala
 
 ---
 
+## 🌐 Deployed Projects
+
+- [yelpcampreact](https://yelp-camp-react-nu.vercel.app)  
+  A full-stack web app inspired by Yelp, built with React and Node.js. Users can browse, add, and review campgrounds.
+
+---
+
 ## 📫 Let's Connect
 
 - 📧 alberto_bernardez@hotmail.com  
@@ -43,6 +50,6 @@ I'm passionate about using my engineering problem-solving mindset to build scala
 
 ## 🧩 Fun Fact
 
-I bring a problem-solving engineer's mindset into every line of code I write. My past in automation helps me think logically and structure systems efficiently — skills that are proving invaluable in my new life as a developer.
+I bring a problem-solving engineer's mindset into every line of code I write. My past in automation helps me think logically and structure systems efficiently — skills that are proving invaluable as a developer.
 
 Thanks for visiting — feel free to check out my repositories and follow my journey!
